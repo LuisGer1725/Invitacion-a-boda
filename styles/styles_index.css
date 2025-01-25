@@ -64,7 +64,7 @@ section.active {
         padding: 40px; /* Espaciado interno opcional */
         font-size: 15px; /* Cambia el tamaño del texto */
         position: relative;
-        top: 110px;
+        top: 80px;
     }
 }
 .background3 {
