@@ -68,7 +68,7 @@ section.active {
     }
 }
 .background3 {
-    background-image: url('/img/3.jpg'); /* Tercera imagen */
+    background-image: url('/img/3.png'); /* Tercera imagen */
     flex-direction: column;
 
 }
