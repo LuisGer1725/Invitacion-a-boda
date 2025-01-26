@@ -73,6 +73,8 @@ section.active {
 
 }
 button {
+    position: absolute;
+    top: 520%;
     font-family: 'Estilo2', serif; /* Cambia la familia tipográfica */
     padding: 20px 30px; /* Tamaño del botón */
     font-size: 22px; /* Tamaño del texto */
