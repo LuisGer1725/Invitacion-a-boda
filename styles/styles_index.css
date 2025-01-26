@@ -73,7 +73,7 @@ section.active {
 
 }
 button {
-    position: absolute;
+    position: relative;
     top: 520%;
     font-family: 'Estilo2', serif; /* Cambia la familia tipográfica */
     padding: 20px 30px; /* Tamaño del botón */
@@ -90,7 +90,7 @@ button {
     
 }
 .btn-salon {
-    position: absolute;
+    position: relative;
     top: 470px;
     margin-inline-end: 0px; /* Espaciado horizontal entre botones */
     padding: 6px 40px;
@@ -101,7 +101,7 @@ button {
     text-decoration: none;
 }
 .btn-templo {
-    position: absolute;
+    position: relative;
     top: 300px;
     margin-inline-start: 11px; /* Espaciado horizontal entre botones */
     padding: 6px 36px;
@@ -112,7 +112,7 @@ button {
     text-decoration: none;
 }
 .btn-whatsapp {
-    position: absolute;
+    position: relative;
     top: 500px;
     padding: 15px 20px;
 }
@@ -123,7 +123,7 @@ button {
   }
   
   .time-box {
-    position: absolute;
+    position: relative;
     top: 540px;
     text-align: center;
     display: flex; /* Flexbox para organizar */
