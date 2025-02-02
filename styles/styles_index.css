@@ -70,7 +70,14 @@ section.active {
 .background3 {
     background-image: url('/img/3.png'); /* Tercera imagen */
     flex-direction: column;
-
+     h3 {
+            padding: 30px; /* Espaciado interno opcional */
+            font-family: 'Estilo1', serif; /* Cambia la familia tipográfica */
+            font-size: 17px; /* Cambia el tamaño del texto */
+            font-style: italic; /* Hace que el texto sea cursivo */
+            position: relative;
+            top: 485px; /* Mueve el texto 50 píxeles hacia abajo */
+        }
 }
 button {
     position: relative;
