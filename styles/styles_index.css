@@ -70,14 +70,16 @@ section.active {
 .background3 {
     background-image: url('/img/3.png'); /* Tercera imagen */
     flex-direction: column;
-     h3 {
-            padding: 30px; /* Espaciado interno opcional */
-            font-family: 'Estilo1', serif; /* Cambia la familia tipográfica */
-            font-size: 17px; /* Cambia el tamaño del texto */
-            font-style: italic; /* Hace que el texto sea cursivo */
-            position: relative;
-            top: 485px; /* Mueve el texto 50 píxeles hacia abajo */
-        }
+    color: #445d57; /* Cambia el color del texto */
+
+    h3 {
+        padding: 30px; /* Espaciado interno opcional */
+        font-family: 'Estilo1', serif; /* Cambia la familia tipográfica */
+        font-size: 17px; /* Cambia el tamaño del texto */
+        font-style: italic; /* Hace que el texto sea cursivo */
+        position: relative;
+        top: 485px; /* Mueve el texto 50 píxeles hacia abajo */
+    }
 }
 button {
     position: relative;
@@ -120,18 +122,19 @@ button {
 }
 .btn-whatsapp {
     position: relative;
-    top: 500px;
+    top: 510px;
     padding: 15px 20px;
 }
 #countdown {
     display: flex;
     gap: 5px;
     justify-content: center;
+
   }
   
   .time-box {
     position: relative;
-    top: 540px;
+    top: 425px;
     text-align: center;
     display: flex; /* Flexbox para organizar */
     font-family: 'Estilo1', serif; /* Cambia la familia tipográfica */
