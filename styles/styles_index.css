@@ -99,9 +99,8 @@ button {
     
 }
 .btn-salon {
-    position: relative;
     top: 470px;
-    margin-inline-end: 0px; /* Espaciado horizontal entre botones */
+    margin-inline-end: 0px; /* margen desde la linea final */
     padding: 6px 40px;
     font-size: 16px;
     border: none;
@@ -110,9 +109,8 @@ button {
     text-decoration: none;
 }
 .btn-templo {
-    position: relative;
     top: 300px;
-    margin-inline-start: 11px; /* Espaciado horizontal entre botones */
+    margin-inline-start: 11px; /* margen desde la linea inicial */
     padding: 6px 36px;
     font-size: 16px;
     border: none;
@@ -121,8 +119,7 @@ button {
     text-decoration: none;
 }
 .btn-whatsapp {
-    position: relative;
-    top: 510px;
+    top: 518px;
     padding: 15px 20px;
 }
 #countdown {
