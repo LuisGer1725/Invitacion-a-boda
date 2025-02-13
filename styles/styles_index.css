@@ -99,7 +99,7 @@ button {
     
 }
 .btn-salon {
-    top: 470px;
+    top: 480px;
     margin-inline-end: 0px; /* margen desde la linea final */
     padding: 6px 40px;
     font-size: 16px;
@@ -109,7 +109,7 @@ button {
     text-decoration: none;
 }
 .btn-templo {
-    top: 300px;
+    top: 310px;
     margin-inline-start: 11px; /* margen desde la linea inicial */
     padding: 6px 36px;
     font-size: 16px;
@@ -119,7 +119,7 @@ button {
     text-decoration: none;
 }
 .btn-whatsapp {
-    top: 523px;
+    top: 533px;
     padding: 15px 20px;
 }
 #countdown {
@@ -131,7 +131,7 @@ button {
   
   .time-box {
     position: relative;
-    top: 425px;
+    top: 435px;
     text-align: center;
     display: flex; /* Flexbox para organizar */
     font-family: 'Estilo1', serif; /* Cambia la familia tipográfica */
