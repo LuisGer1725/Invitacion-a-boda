@@ -119,7 +119,7 @@ button {
     text-decoration: none;
 }
 .btn-whatsapp {
-    top: 533px;
+    top: 525px;
     padding: 15px 20px;
 }
 #countdown {
@@ -131,7 +131,7 @@ button {
   
   .time-box {
     position: relative;
-    top: 435px;
+    top: 430px;
     text-align: center;
     display: flex; /* Flexbox para organizar */
     font-family: 'Estilo1', serif; /* Cambia la familia tipográfica */
