@@ -102,7 +102,7 @@ button {
     top: 480px;
     margin-inline-end: 0px; /* margen desde la linea final */
     padding: 6px 40px;
-    font-size: 16px;
+    font-size: 12px;
     border: none;
     border-radius: 8px;
     color: white;
@@ -112,7 +112,7 @@ button {
     top: 310px;
     margin-inline-start: 11px; /* margen desde la linea inicial */
     padding: 6px 36px;
-    font-size: 16px;
+    font-size: 12px;
     border: none;
     border-radius: 8px;
     color: white;
