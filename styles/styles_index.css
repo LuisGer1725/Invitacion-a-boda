@@ -101,7 +101,7 @@ button {
 .btn-salon {
     top: 480px;
     margin-inline-end: 0px; /* margen desde la linea final */
-    padding: 6px 25px;
+    padding: 6px 20px;
     font-size: 12px;
     border: none;
     border-radius: 8px;
@@ -111,7 +111,7 @@ button {
 .btn-templo {
     top: 310px;
     margin-inline-start: 11px; /* margen desde la linea inicial */
-    padding: 6px 35px;
+    padding: 6px 20px;
     font-size: 12px;
     border: none;
     border-radius: 8px;
